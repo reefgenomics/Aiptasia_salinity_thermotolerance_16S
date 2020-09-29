@@ -32,7 +32,7 @@ shapiro.test(div.1$Inv.Simpson) # W = 0.9445, p-value = 0.01713
 shapiro.test(div.1$Species) # W = 0.97551, p-value = 0.3565
 shapiro.test(div.1$Simpson.E) # W = 0.86493, p-value = 2.933e-05
 
-# non-parametric equivalent of ANOVA =  Kruskal–Wallis 
+# non-parametric 
 
 kruskal.test(shann ~ ID, data = div.1) # Kruskal-Wallis chi-squared = 11.319, df = 11, p-value = 0.4169
 kruskal.test(Simpson.D ~ ID, data = div.1) # Kruskal-Wallis chi-squared = 10.418, df = 11, p-value = 0.4932
