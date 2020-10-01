@@ -1,4 +1,4 @@
-# Aiptasia_salinity_thermotolerance_16S
+# Bacterial diversity during salinity-conveyed thermotolerance in the coral model Aiptasia
 
 This repository contains the scripts used to analyze data and create figures for the manuscript “Salinity-conveyed thermotolerance in the coral model Aiptasia is accompanied by distinct changes of the bacterial microbiome”.
 
